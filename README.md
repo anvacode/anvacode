@@ -48,8 +48,7 @@
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-username/)  
-[![Twitter](https://img.shields.io/badge/Twitter-@your_username-1DA1F2?style=flat&logo=twitter)](https://twitter.com/your_username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/andr%C3%A9s-vacca-355210270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 
 ---
 ⭐️ *If you like what you see, feel free to follow me and contribute to my projects.* 🚀
