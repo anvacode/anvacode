@@ -42,11 +42,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="XAMPP" width="50" height="50"/>
 </p>
 
-## 📌 Featured Projects
-
-🔹 [Library Management System](https://github.com/your-username/library-management) 📚  
-🔹 [Headphones website](https://github.com/anvacode/headphones-website.git) 🚀
-
 ## 📊 Stats
 
 ![Anvacode's GitHub stats](https://github-readme-stats.vercel.app/api?username=anvacode&show_icons=true&theme=transparent)
