@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-💻 Web developer with experience in **Laravel**, **Vue**, **Astro** and **Tailwind**.  
+💻 Web developer with experience in **Laravel**, **Vue**, **Angular** **Astro** and **Tailwind**.  
 📚 Currently working on a **university library management system**.  
 🔍 Learning more about **backends and best practices in Git**.
 
