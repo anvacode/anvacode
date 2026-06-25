@@ -55,8 +55,6 @@ I'm a passionate developer who believes that **great software starts with empath
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://portafolio-derwin.netlify.app/)
 
-*(Add your top 2–3 projects here with brief descriptions and links)*
-
 ---
 
 ## 🌍 Open Source
