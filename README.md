@@ -1,76 +1,88 @@
-# Hi, I'm Andrés Vacca 👋
+# 👋 Hi, I'm Derwin Andrés Vacca Ropero
 
-> Fullstack developer passionate about clean code, open-source software, and building things that matter.
-
----
-
-## About me
-
-- 📚 Deepening knowledge in **backends, Git best practices**, and system design
-- 🐧 Linux enthusiast — I run **Ubuntu Server** for my personal projects
-- ❤️ Passionate about **free and open-source software (FOSS)** — I'd love to contribute to projects in that space
+> **Fullstack Developer** · Open Source Enthusiast · Clean Code Advocate  
+> *Building meaningful digital experiences with a focus on quality and community.*
 
 ---
 
-## Technologies
+## 🧑‍💻 About Me
+
+I'm a passionate developer who believes that **great software starts with empathy** — for users, for teammates, and for the future maintainers of the code. I enjoy crafting elegant solutions to real-world problems, and I'm constantly learning to sharpen my craft.
+
+- 🌱 I’m deepening my knowledge of **backend architecture**, **system design**, and **Git best practices** to write more scalable and collaborative code.
+- 🐧 I run **Ubuntu Server** for my personal projects — I love the control and transparency of the Linux ecosystem.
+- ❤️ I'm a firm believer in **Free and Open Source Software** (FOSS). I'm actively looking to contribute to projects that make a difference.
+- 🎯 **2026 goal:** Make my first meaningful contribution to a major open-source project.
+
+---
+
+## 🛠️ Tech Stack
 
 ### Languages
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40" alt="Dart"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-</p>
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ### Frontend & Mobile
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" alt="Angular"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="Vue"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap"/>
-</p>
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
 ### Backend & Databases
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" height="40" alt="Laravel"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
-</p>
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ### DevOps & Tools
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="40" height="40" alt="Ubuntu"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40" alt="Jira"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" height="40" alt="Apache"/>
-</p>
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat&logo=apache&logoColor=white)
 
 ---
 
-## Open Source
+## 🌟 Featured Projects
 
-I believe free software makes the world better. Community-driven development creates tools that belong to everyone.
-I'm actively looking to **contribute to open-source projects** — if you have one, let's collaborate. 🤝
+> *Check out my portfolio for a complete view of my work 👇*
 
----
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://portafolio-derwin.netlify.app/)
 
-## Stats
-
-![Anvacode's GitHub stats](https://github-readme-stats.vercel.app/api?username=anvacode&show_icons=true&theme=transparent)
+*(Add your top 2–3 projects here with brief descriptions and links)*
 
 ---
 
-## Connect
+## 🌍 Open Source
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrés_Vacca-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9s-vacca-355210270)
-[![GitHub](https://img.shields.io/badge/GitHub-anvacode-181717?style=flat&logo=github&logoColor=white)](https://github.com/anvacode)
+> *"Free software is a matter of liberty, not price."* — Richard Stallman
+
+I believe that **open source is the foundation of a better digital world**. It fosters collaboration, transparency, and innovation that belongs to everyone. I'm actively looking for projects where I can contribute, learn from others, and give back to the community.
+
+**If you're working on a FOSS project and need a hand — reach out!** I'd love to collaborate.
 
 ---
 
-⭐ *Feel free to follow me and contribute to my projects.*
+## 📊 GitHub Stats
+
+![Anvacode's GitHub stats](https://github-readme-stats.vercel.app/api?username=anvacode&show_icons=true&theme=transparent&hide_border=true)
+
+---
+
+## 📫 Let's Connect
+
+I'm always open to interesting conversations, collaboration opportunities, or just a friendly chat about tech.
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/derwin-andr%C3%A9s-vacca-ropero-355210270)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anvacode)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://portafolio-derwin.netlify.app/)
+
+---
+
+⭐ *Feel free to follow me, star my repos, or drop a message — let's build something great together!*
