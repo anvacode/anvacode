@@ -5,8 +5,8 @@
 
 [identity]
 # The shell prompt and the terminal title bar.
-user = "you@localhost"
-cwd  = "~/Documents/you"
+user = "anvacode@localhost"
+cwd  = "~/anvacode"
 # title = "custom title bar text"   # default is "user: cwd"
 
 [image]
@@ -31,20 +31,18 @@ avatar_crop   = "auto"     # square head and shoulders
 # The info block. Each row is ["Label", "Value"].
 # Use [] for a blank line. Use ["", "Value"] to continue the row above it.
 fields = [
-  ["Name",      "Your Name"],
-  ["Role",      "What you do @ Where you do it"],
-  ["Location",  "City, Country"],
+  ["Name",      "Andres Vacca"],
+  ["Role",      "Systems Engineer - Tech enthusiast"],
+  ["Location",  "Colombia"],
   [],
-  ["Focus",     "The thing you care about most"],
-  ["",          "A second line, no label"],
+  ["Focus",     "Cybersecurity, Network Infra & FOSS"],
+  ["",          "Data Analysis"],
   [],
-  ["Skills",    "The tools you reach for"],
-  ["Interests", "What you do when nobody is paying"],
+  ["Skills",    "Linux, Python, Networking (TCP/IP), Nmap, Wireshark, Git"],
+  ["Interests", "Linux Hardening, NetSec, Ethical Hacking"],
   [],
-  ["Projects",  "The three you are proud of"],
-  [],
-  ["GitHub",    "github.com/you"],
-  ["Email",     "you@example.com"],
+  ["GitHub",    "github.com/anvacode"],
+  ["Email",     "vaccaderwin@gmail.com"],
 ]
 
 [output]
