@@ -1,3 +1,5 @@
+<img src="fastfetch.svg" width="100%" alt="anvacode ASCII Profile" />
+
 # 👋 Hi, I'm Derwin Andrés Vacca Ropero
 
 > **Fullstack Developer** · Open Source Enthusiast · Clean Code Advocate  
