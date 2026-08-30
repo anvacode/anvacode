@@ -5,7 +5,7 @@
 
 [identity]
 # The shell prompt and the terminal title bar.
-user = "anvacode@localhost"
+user = "anvacode@lecho-saber"
 cwd  = "~/anvacode"
 # title = "custom title bar text"   # default is "user: cwd"
 
