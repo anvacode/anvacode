@@ -10,7 +10,7 @@ cwd  = "~/anvacode"
 # title = "custom title bar text"   # default is "user: cwd"
 
 [image]
-src = "headshot.jpg"
+src = "headshot.png"
 
 # "auto" finds your face and sizes the box around it. It needs the extra:
 #   pip install "asciifetch[auto]"
