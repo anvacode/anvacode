@@ -5,7 +5,7 @@
 
 [identity]
 # The shell prompt and the terminal title bar.
-user = "anvacode@lecho-saber"
+user = "anvacode@echo-saber"
 cwd  = "~/anvacode"
 # title = "custom title bar text"   # default is "user: cwd"
 
@@ -31,20 +31,25 @@ avatar_crop   = "auto"     # square head and shoulders
 # The info block. Each row is ["Label", "Value"].
 # Use [] for a blank line. Use ["", "Value"] to continue the row above it.
 fields = [
-  ["Name",      "Andres Vacca"],
-  ["Role",      "Systems Engineer - Tech enthusiast"],
-  ["Location",  "Colombia"],
-  [],
-  ["Focus",     "Cybersecurity, Network Infra & FOSS"],
-  ["",          "Data Analysis"],
-  [],
-  ["Skills",    "Linux, Python, Networking (TCP/IP), Nmap, Wireshark, Git"],
-  ["Interests", "Linux Hardening, NetSec, Ethical Hacking"],
-  [],
-  ["GitHub",    "github.com/anvacode"],
-  ["Email",     "vaccaderwin@gmail.com"],
+    ["Name", "Andres Vacca"],
+    ["Role", "Systems Engineer - Tech Enthusiast"],
+    ["Education", "Francisco de Paula Santander University"],
+    ["Location", "Colombia"],
+    [],
+    ["Focus", "Cybersecurity, Network Infra & FOSS"],
+    ["", "Data Analysis"],
+    [],
+    ["Languages", "Python, Java, JavaScript, PHP, Dart"],
+    ["Frameworks", "Laravel, PyTorch"],
+    ["Databases", "PostgreSQL, MongoDB"],
+    ["DevOps & Cloud", "Docker, AWS, Virtualization"],
+    ["Tools & Sec", "Linux, Networking (TCP/IP), Nmap, Wireshark, Git"],
+    [],
+    ["Interests", "Linux Hardening, NetSec, Ethical Hacking"],
+    [],
+    ["GitHub", "github.com/anvacode"],
+    ["Email", "vaccaderwin@gmail.com"],
 ]
-
 [output]
 dir = "."
 # name = "fastfetch"   # basename of the banner files: fastfetch.svg, .png, .txt

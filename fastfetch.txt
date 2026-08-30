@@ -1,0 +1,66 @@
+
+ anvacode@lecho-saber:~/anvacode$ fastfetch
+
+
+
+
+
+
+                                        -!--'+-:^';'!:~-~~
+                                    ~_()77|)|}l]|(?}vi|??{}*+.````-.`
+                                  _<?vc|rr)???";\(\r\"/7l7L{|**rr;>=_:`
+                            _^^''-'\\(][7i|,(]|\='+~'>+.+'>]^i||/~''<=-_-
+                      _)71><x[r*(Lvr/(|7LLi)*/)r*?r''^'- `.,c,\[\</"+-:-+<^-
+                    .vv[TJ*Y7*,c+^c^l[i,\?](\"*<~_<;<=-~`..:*++*()\>--!_-~:_^'
+                   ~,|?}![i)|l+:{c7}xs>i\ri(*</;;=+==-..`-. -_=<r(;--.__:'`._^-'
+                 "1J^}x:{L]lt*>!}L(/;/l^}(>>r">_~;__>-.._:~ '_!:;\--'-~:~~_- -.~+-
+                -Yxts*z*=JfY:T>Jfl|,;=",|(r;;=_-^~~=_--_~>_^+_!=='_-    ` ```-`--=_
+               .\;'r7x!}L{x>>1<fs<c|,\;=*\,"'==;>'';;//,L:](\>+-_;~~- ``    `-  .:+
+               ^'^_<]Li|?^:>y2jznz^c?,?/<(??i\rvv]|[lY233ny*>{[7i~!~^..`- `      ._,
+              :!~(]i)r}u\#2x!>Foo;j^[{v)7:Y>>>J2C4(%A8p78GcE)rXCY^Yj2):-          ._
+              ._*!{c{:IiAc%))X$)X)$)e/\Ve\4XkE7|LxTzYfgzTtsDmH[UUP4usr_'..     ` .~
+              _*~^r{TIp&z#WwEkZ%ue3a9SSVFueyyey3ynFjaFFuyMCYz1DmvdGes:7=,``,`~`.`-.
+              .?*~*\+6N5PA@&DNBBgNBNBBMHO@qGEh08Z0S8Z99IFuM2ffYt&wbGU%o[_</+.._`-~,
+               **)r'}5R6EdmKgQWWWQBQQWWQBgD&mdbpGUGUwXPZ6%n#ffofzwpGESVTr)\'_,~'~'
+               :<(|/[CNkE@mHRWQNQWWWWWWWQWWBDKKKKmO@qGwk0$IufzTDlm|bp06/{'~'>~:.:'                anvacode@lecho-saber
+                _>\\{\2hpdKpeg2J46XwbHgWWWBRDH&&&H@Gwk8V3ox}8X4/3#eS]]EPI(^.+~.--`                ────────────────────
+                !</)!Zuhpqn&ddO|qihZa(9dz#%8Xpm@p0%yQL0)F**zo\a5"#o;?cG9%2<!_-~+`
+                 :i!T%WwG5Qnef0X05MY1HiX$P]wzVqGZCwiX;nn\SqRQfzRw|cPZh00E\(_=^`~                  Name         Andres Vacca
+                ^#>:f94wA5%PS60ZjueoQRHdOOd@B0Dd9si?(Z6E[Kl{[[p[GGi896EGEr[~:~vL                  Role         Systems Engineer - Tech enthusiast
+               PF$JPjhWAEw05#D{pNKUj<)7cEvy8U&WgX2bEGhX|eB8i+#]E54?9EGciG?7'xV?%!                 Location     Colombia
+               }Q5Hd]%%wb&@k4gxCpUH5rK2YzyE&HgWgUnKG{KlfWW|XPOgD]9G7b{b[0Plf7bru/
+               %%wWW1UVwmgBNDK@qpbqh9W%ZwO&&RNWgUam{|RoMMyFanJBs&Dlm@w{]i61owK0t                  Focus        Cybersecurity, Network Infra & FOSS
+               Y$pRq&|6A@DBQQWWWQBRDmOKgBWBRMNWRA3wdv&onW59995Iju#Yz1v{[GP>CGOc~                               Data Analysis
+                /MK0jNWAq&BWWWWWWWWWBQWWWQg&KmDmk3@}KLNyW68SSPk0$IaCsOb[GZeS?}f
+                 Ag8Ga#0E&BWWWWWWWWWWWWWWHm&HDMdX92O7b&CFVZ0PAAwh84oxO7i9e6kU?'                   Skills       Linux, Python, Networking (TCP/IP), Nmap, Wireshark, Git
+                 :8HpWR%UKQWWWWWWWWWWWBRgmHNWWWROka1|q|NyWVZ0PkkS%etL|[E5;0Gdl                    Interests    Linux Hardening, NetSec, Ethical Hacking
+                  5&Oh@CAOgWWWWWWWWQR&pbHgHmgQQROPYHOH{{seW$8S86WMBDK7cSnZ}K$~
+                   RWKF1ZpKNQWWWWWQM@Gqmq$RGx%ugm]rI$GGGOB34965jeYxv{pAe4[{}r                     GitHub       github.com/anvacode
+                   *G30TeXGKMNQWWQM@OMWBKXa5X0ym[70AEc|lsgJujjn#zxv}qG?F;et/                      Email        vaccaderwin@gmail.com
+                      ;cmWPpOKMgD&HHMRDmwZW45CNIFNpSkcwtg2Jey#oQxv{p0PI'
+                        ;jVhwb@qUEA6at&&QeJ38Wo4$aT{EZeeZAd@11@lL|]U%Xr
+                        'zIZZPXXX3|Gkcl#9$%%5VVuzTRlLK]%\oFj/Uqd|[Uhhz`
+                         oIIV5V8SJOcAw#oQzNRRR@OcEA99S??Z\3nuaU]0A66)!
+                          )n4II9S5aWZhZWjVApk$%$Z4MQH0%Zh8{Oq[]EPP6%J
+                          _@u%99%%SbH&mbPI5SZj3jF#x7Giqdv@xlK7iP%%r5y
+                          ,CtYnajW6XpbqGA$31|9$ee$68p|OvwLKbiAP?);uA/
+                          \SPNLs#nn%SXUwUXVesRl}cc}l11@wO{GAAh5IC\9po
+                          r6mE3@K&J4I90UbbEhk866IeBYfgNmqcES"**/hGi7o
+                          \Vb@OG4Db{&CaW5%%4aCYfBsTld{pc9$ot<o?8Gi[p)~
+                          \VbmK@Ob6tq0E8dHvH}pc89k6?5;nys>=\6808cp7[U<
+                          \6OKD&KOdpPu&GZ"jtx1:{7L[7}c!s#SG]cGG[pp7]0r
+                          _4HHHHHHKbGAh0azOGZI2Jtf=y3ahE00Gcp7{b7qpcP^
+                           |NKMDD&KKObUk06%4uJgsDw}7cG00Gcpb|dOd|}[[3
+                           YO&&DgMDHKm@bGk64uJ2f1Opicicpq|HLmmLvO}pi,
+                            dWKKMgggMMKO@qGX$j#NlK}||||Ol1sN1lww|{wI
+                            "zQWDKDMMRMHHOqUXZIFy2z1DlDz2JoQxwwLlv(+
+                              2CMWQD&HDDH&mqEX06%nJoYo#33eYsD1t&S|
+                                LUjMWWBDmqEAXPZ54uyeen4jne2fBOa?
+                                   ^9BSHWQgKqAPZVI9SAbmpVY[V{,
+                                       7FPLQyWV6V5I3fRiI{_
+
+
+
+
+
+ anvacode@lecho-saber:~/anvacode$
