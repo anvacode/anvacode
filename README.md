@@ -36,7 +36,7 @@
 
 ## Featured Projects
 
-> *Check out my portfolio for a complete view of my work 👇*
+> *Check out my portfolio for a complete view of my work*
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://portafolio-derwin.netlify.app/)
 
