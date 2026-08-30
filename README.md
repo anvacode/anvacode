@@ -1,24 +1,7 @@
 <img src="fastfetch.svg" width="100%" alt="anvacode ASCII Profile" />
 
-# 👋 Hi, I'm Derwin Andrés Vacca Ropero
 
-> **Fullstack Developer** · Open Source Enthusiast · Clean Code Advocate  
-> *Building meaningful digital experiences with a focus on quality and community.*
-
----
-
-## 🧑‍💻 About Me
-
-I'm a passionate developer who believes that **great software starts with empathy** — for users, for teammates, and for the future maintainers of the code. I enjoy crafting elegant solutions to real-world problems, and I'm constantly learning to sharpen my craft.
-
-- 🌱 I’m deepening my knowledge of **backend architecture**, **system design**, and **Git best practices** to write more scalable and collaborative code.
-- 🐧 I run **Ubuntu Server** for my personal projects — I love the control and transparency of the Linux ecosystem.
-- ❤️ I'm a firm believer in **Free and Open Source Software** (FOSS). I'm actively looking to contribute to projects that make a difference.
-- 🎯 **2026 goal:** Make my first meaningful contribution to a major open-source project.
-
----
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -51,7 +34,7 @@ I'm a passionate developer who believes that **great software starts with empath
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
 > *Check out my portfolio for a complete view of my work 👇*
 
@@ -59,23 +42,7 @@ I'm a passionate developer who believes that **great software starts with empath
 
 ---
 
-## 🌍 Open Source
-
-> *"Free software is a matter of liberty, not price."* — Richard Stallman
-
-I believe that **open source is the foundation of a better digital world**. It fosters collaboration, transparency, and innovation that belongs to everyone. I'm actively looking for projects where I can contribute, learn from others, and give back to the community.
-
-**If you're working on a FOSS project and need a hand — reach out!** I'd love to collaborate.
-
----
-
-## 📊 GitHub Stats
-
-![Anvacode's GitHub stats](https://github-readme-stats.vercel.app/api?username=anvacode&show_icons=true&theme=transparent&hide_border=true)
-
----
-
-## 📫 Let's Connect
+## Connect
 
 I'm always open to interesting conversations, collaboration opportunities, or just a friendly chat about tech.
 
@@ -84,5 +51,3 @@ I'm always open to interesting conversations, collaboration opportunities, or ju
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://portafolio-derwin.netlify.app/)
 
 ---
-
-⭐ *Feel free to follow me, star my repos, or drop a message — let's build something great together!*
